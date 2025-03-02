@@ -28,8 +28,9 @@ This script is useful in scenarios like:
 # RUNNING THE SCRIPTS 
 
 ## Clone the Repo
-git clone https://github.com/keusuanl/hacktavis.git
-cd hacktavis
+git clone https://github.com/keusuanl/pin-solver.git
+
+cd pin-solver
 
 ## Run the Scripts 
 python3 pin-solver.py
